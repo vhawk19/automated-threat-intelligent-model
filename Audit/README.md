@@ -52,3 +52,6 @@ $ audit.py export audit1
 
 All audit logs are saved in the main audit folder defined in **config.py**, in a subdirectory "audit1".
 
+Output :
+<img src="https://66.media.tumblr.com/bace382b9f00fab7de7840fd271b82bb/tumblr_plkyem0UUI1wnca1uo1_1280.png" alt="Screenshot>"
+
