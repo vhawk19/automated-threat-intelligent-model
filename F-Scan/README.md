@@ -35,5 +35,5 @@ Installation / use
 * option 5 for more details of F-Scan
 
 ## Screenshot
-<img src="https://66.media.tumblr.com/7c2ca9de2e51c40ddcccfda70c1f5920/tumblr_pllbwsmMcH1wnca1uo1_1280.png" alt="Screenshot">
+<img src="https://66.media.tumblr.com/6d6e71f43eb0e534c3dee79e1af615f4/tumblr_pllc6nwl561wnca1uo1_1280.png" alt="Screenshot">
 
