@@ -33,7 +33,7 @@ entity, type, direction, source, notes, date
 
 Output Screenshot:
 <img src="https://66.media.tumblr.com/70f79f7b276637864af713d5e4b16e31/tumblr_plkxbbMoxE1wnca1uo1_1280.png" alt="Harvested Output">
-<img src="https://66.media.tumblr.com/83ac842be4ad11b73a6bde8d349f4699/tumblr_plkxg0oSXy1wnca1uo1_540.png" alt="Harvested Output">
+<img src="https://66.media.tumblr.com/83ac842be4ad11b73a6bde8d349f4699/tumblr_plkxg0oSXy1wnca1uo1_1280.png" alt="Harvested Output">
 
 ### Installation
 
