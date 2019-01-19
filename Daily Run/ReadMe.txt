@@ -5,14 +5,16 @@ Run Terminal Command:
 sudo crontab -e
 ```
 Add text:
+```
 00 02 * * * python path/to/software/folder/DailyRun.py
 
 (Change 00 02 to preferred daily run time)
+```
 
 ## Revisions:
 
 Add new sources to "sources.txt" in proper format
-***Note: URL needs to lead directly to intel file
+Note: URL needs to lead directly to intel file
 
 To change location of "Logs" directory, replace first line of "sources.txt" with new file path
 
