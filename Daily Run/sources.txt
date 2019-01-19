@@ -1,0 +1,15 @@
+Final-Software\Logs
+
+talos    https://www.talosintelligence.com/documents/ip-blacklist    IP
+et_ips    http://rules.emergingthreats.net/open/suricata/rules/compromised-ips.txt    IP
+Blacklist    https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist/blob/master/ips.list.zip?raw=true    IP
+Blacklist    https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist/blob/master/domains.list.zip?raw=true    Domains
+Abuse    https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt    IP
+Abuse    https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt    URLS
+abuse    https://sslbl.abuse.ch/blacklist/sslblacklist.csv    SHA-1
+alienvault    http://reputation.alienvault.com/reputation.generic    IP  
+botcc    http://rules.emergingthreats.net/open/suricata/rules/botcc.rules    IP  
+tor    http://rules.emergingthreats.net/open/suricata/rules/tor.rules    IP
+malhosts    http://www.malwaredomainlist.com/hostslist/hosts.txt    DNS  
+malips    http://www.malwaredomainlist.com/hostslist/ip.txt    IP
+ciarmy    http://www.ciarmy.com/list/ci-badguys.txt    IP
