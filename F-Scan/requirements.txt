@@ -1,0 +1,6 @@
+tqdm>=4.19.6
+nmap>=7.60
+wpscan>=2.9.3
+theharvester>=2.7
+whatweb>=0.4.9
+colorama
