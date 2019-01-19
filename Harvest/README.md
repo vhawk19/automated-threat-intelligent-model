@@ -3,7 +3,7 @@ Harvest
 
 Harvest gathers Threat Intelligence Feeds from publicly available sources
 
-You can run the core tool with `combine.py`:
+You can run the tool with `python combine.py`:
 ```
 usage: combine.py [-h] [-t TYPE] [-f FILE] [-d] [-e] [--tiq-test]
 
@@ -30,16 +30,10 @@ The output will actually be a CSV with the following schema:
 ```
 entity, type, direction, source, notes, date
 ```
-- The `entity` field consists of a FQDN or IPv4 address (supported entities at the moment)
-- The `type` field consists of either `FQDN` or `IPv4`, classifying the type of the entity
-- The `direction` field will be either `inbound` or `outbound`
-- The `source` field contains the original URL.
-- The `notes` field should cover any extra tag info we may want to persist with the data
-- The `date` field will be in `YYYY-MM-DD` format.
-- All fields are quoted with double-quotes (`"`).
 
 Output Screenshot:
 <img src="https://66.media.tumblr.com/70f79f7b276637864af713d5e4b16e31/tumblr_plkxbbMoxE1wnca1uo1_1280.png" alt="Harvested Output">
+<img src="https://66.media.tumblr.com/83ac842be4ad11b73a6bde8d349f4699/tumblr_plkxg0oSXy1wnca1uo1_540.png" alt="Harvested Output">
 
 ### Installation
 
