@@ -42,7 +42,7 @@ Installation for *NIX systems.
 ```
 sudo apt-get install python-dev python-pip python-virtualenv git
 git clone https://github.com/kaiiyer/automated-threat-intelligent-model.git
-cd combine
+cd Harvest
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
