@@ -4,8 +4,6 @@ This integration is focusing on the automated threat intelligence collection wit
 McAfee Advanced Threat Defense (ATD) will produce local threat intelligence that will be pushed via DXL. 
 An OpenDXL wrapper will subscribe and parse indicators ATD produced and will import indicators into a threat intelligence management platform (MISP). 
 
-![1_atd_misp](https://cloud.githubusercontent.com/assets/25227268/25056477/5ac507f6-2169-11e7-87a9-87f251b9eab7.PNG)
-
 ## Component Description
 
 **McAfee Advanced Threat Defense (ATD)** is a malware analytics solution combining signatures and behavioral analysis techniques to rapidly identify malicious content and provides local threat intelligence. ATD exports IOC data in STIX format in several ways including the DXL.
@@ -75,8 +73,9 @@ or
 With this use case, ATD produces local intelligence and contributes information to an intelligence management platform like MISP.
 MISP is able to combine global, community and locally produced intelligence.
 
-![2_atd_misp](https://cloud.githubusercontent.com/assets/25227268/25057844/d5ded02a-2173-11e7-914d-422329a1bb51.PNG)
+
 <img src="https://66.media.tumblr.com/b323da789262c09b7c5b135cd46dd6bb/tumblr_pllgi5VnuU1wnca1uo1_1280.png" alt="Screenshot1">
+![2_atd_misp](https://cloud.githubusercontent.com/assets/25227268/25057844/d5ded02a-2173-11e7-914d-422329a1bb51.PNG)
 <img src="https://66.media.tumblr.com/b8745deee40b1068be5895ab1a063544/tumblr_pllgi5VnuU1wnca1uo2_1280.png" alt="Screenshot1">
 <img src="https://66.media.tumblr.com/63856d859cba4d64053140d060137461/tumblr_pllgi5VnuU1wnca1uo3_1280.png" alt="Screenshot1">
 <img src="https://66.media.tumblr.com/8b3df16ae586be9ca844f8a6b24850b6/tumblr_pllgi5VnuU1wnca1uo4_1280.png" alt="Screenshot1">
