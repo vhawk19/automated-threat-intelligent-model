@@ -36,44 +36,6 @@ Installation / use
 * cd T.rex_scan
 * pip install -r requirements.txt
 * python T.rex_scan.py
-* option 5 for more details of T.rex_scan
-
-<a href="https://ibb.co/eEMVuc"><img src="https://preview.ibb.co/mB1Vuc/actualizacion.png" alt="actualizacion" border="0"></a>
-
-<a href="https://ibb.co/jSLFuc"><img src="https://preview.ibb.co/n2eVSx/details_new.png" alt="details_new" border="0"></a>
-
-Analyzing the website
-
-<a href="https://ibb.co/fTLZtS"><img src="https://preview.ibb.co/ewk0YS/2.png" alt="2" border="0"></a><br /><a target='_blank' href=''></a><br />
-
-Port analysis
-
-<a href="https://ibb.co/j9d9Sn"><img src="https://preview.ibb.co/ejZinn/3.png" alt="3" border="0"></a><br /><a target='_blank' href=''></a><br />
-
-Mail search
-
-<a href="https://ibb.co/fxPYnn"><img src="https://preview.ibb.co/gNH8L7/4.png" alt="4" border="0"></a><br /><a target='_blank' href=''></a><br />
-
-Results
-
-<a href="https://ibb.co/cBPhV7"><img src="https://preview.ibb.co/dhFZcn/5.png" alt="5" border="0"></a><br /><a target='_blank' href=''></a><br />
-
-<a href="https://ibb.co/caUoL7"><img src="https://preview.ibb.co/ghPcDS/6.png" alt="6" border="0"></a><br /><a target='_blank' href=''></a><br />
-
-<a href="https://ibb.co/cvQNV7"><img src="https://preview.ibb.co/g2LBOS/7.png" alt="7" border="0"></a><br /><a target='_blank' href=''></a><br />
-
-The logs can be analyzed also without the tool
-
-<a href="https://ibb.co/cuxQiS"><img src="https://preview.ibb.co/nKxQiS/8.png" alt="8" border="0"></a><br /><a target='_blank' href=''></a><br />
+* option 5 for more details of F-Scan
 
 
-"The wheel is already invented, so that invent it again? If it is already created we can use it to go faster."
-
-Acknowledgments to: @elcodigok @ Sebastianf94 @LuisRamirezMe @whitepadawan
-
-Thanks for your contributions.
-
-My data:
-
-- sysvd@protonmail.com
-- Twitter @DaveNISC
