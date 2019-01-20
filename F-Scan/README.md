@@ -2,7 +2,7 @@
 F-Scan only facilitates the visualization when auditing a web page, its next versions will allow the researcher to make attacks and generate reports with just one click
 
 
-With this script you can optimize your time, reducing the time you audit a page web since T.rex_scan executes the task you indicate and filters the results. the idea was born when We had to audit a web page and we had to open many consoles to run tool per tool, in addition to this we had to analyze the logs one by one and take out the information that we need.
+With this script you can optimize your time, reducing the time you audit a page web since F-Scan executes the task you indicate and filters the results. the idea was born when We had to audit a web page and we had to open many consoles to run tool per tool, in addition to this we had to analyze the logs one by one and take out the information that we need.
 
 <h2>Improvements that will be implemented in next version</h2>
  
